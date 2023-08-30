@@ -1,3 +1,6 @@
+// Uso básico de funciones
+console.log('')
+console.log(`Ejercicio Tabla`)
 const currentDate = new Date();
 
 document.getElementById("fullYearValue").textContent = currentDate.getFullYear();
