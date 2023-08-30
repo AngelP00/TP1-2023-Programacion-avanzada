@@ -107,6 +107,7 @@ console.log(`Uso básico de funciones`)
 function cambiarColor(params) {
     //document.bgColor = "red";
     document.bgColor = params;
+    //console.log(`cambiar cal olor ${params}`)
 }
 
 // Matrices
